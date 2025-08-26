@@ -41,13 +41,13 @@
                 Follow
               </div>
               <div class="footer__iconList">
-                <a
+                <!-- <a
                   href="https://instagram.com/frontendjoe"
                   target="_blank"
                   class="footer__icon"
                 >
                   <font-awesome-icon :icon="['fab', 'instagram']" />
-                </a>
+                </a> -->
                 <a
                   href="https://github.com/vuezy"
                   target="_blank"
@@ -55,9 +55,9 @@
                 >
                   <font-awesome-icon :icon="['fab', 'github']" />
                 </a>
-                <!-- <div class="footer__icon">
+                <div class="footer__icon">
                   <font-awesome-icon :icon="['fab', 'linkedin']" />
-                </div> -->
+                </div>
                 <!-- <div class="footer__icon">
                   <font-awesome-icon :icon="['fab', 'dribbble']" />
                 </div> -->

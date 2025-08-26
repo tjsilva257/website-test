@@ -12,7 +12,7 @@
                     <div class="order-2 order-md-1 col-md-8 styled-left">
                       <div class="about-right">
                         <SectionTitle
-                          title="Hi, I'm Joe"
+                          title="Hi, joe mama"
                           description="Frontend Developer"
                         />
                         <div class="about-text">
